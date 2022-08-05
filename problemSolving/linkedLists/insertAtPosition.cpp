@@ -1,5 +1,4 @@
-//insert node at certain position of a linked list
-
+//  B)  B:|
 SinglyLinkedListNode* insertNodeAtPosition(SinglyLinkedListNode *head, int data, int position) {
     SinglyLinkedListNode *add= new SinglyLinkedListNode(data);
     SinglyLinkedListNode *trav=head;
