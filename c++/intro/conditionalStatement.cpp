@@ -1,3 +1,5 @@
+//  B)  B:|
+
 int main()
 {
     string n_temp;
