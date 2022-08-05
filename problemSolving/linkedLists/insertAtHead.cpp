@@ -1,5 +1,4 @@
-//insert node at end
-
+//  B)  B:|
 
 SinglyLinkedListNode* insertNodeAtHead(SinglyLinkedListNode* llist, int data) {
     SinglyLinkedListNode *temp=NULL;
