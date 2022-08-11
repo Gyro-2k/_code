@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+//  B)  B:|
 int main() { 
     int n;
     cin>>n;
