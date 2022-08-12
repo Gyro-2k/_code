@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//  B)  B:|
 int main() {
     int a,b;
     cin>>a>>b;
